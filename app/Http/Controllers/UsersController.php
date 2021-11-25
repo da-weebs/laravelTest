@@ -71,5 +71,5 @@ class UsersController extends Controller
           'message' => 'Unable to Logout'
         ]);
       }
-     }
+    }
 }
